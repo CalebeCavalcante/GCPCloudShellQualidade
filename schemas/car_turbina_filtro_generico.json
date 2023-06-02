@@ -27,8 +27,6 @@
     {"name": "Telefone_Contato_2" , "type": "INT64", "mode": "NULLABLE" },
     {"name": "Telefone_Contato_3" , "type": "INT64", "mode": "NULLABLE" },
     {"name": "Telefone_Contato_List" , "type": "STRING", "mode": "NULLABLE" },
-    {"name": "Contato_1" , "type": "INT64", "mode": "NULLABLE" },
-    {"name": "Contato_2" , "type": "INT64", "mode": "NULLABLE" },
     {"name": "UF_Cliente" , "type": "STRING", "mode": "NULLABLE" },
     {"name": "Cidade_Cliente" , "type": "STRING", "mode": "NULLABLE" },
     {"name": "Endereco_Cliente" , "type": "STRING", "mode": "NULLABLE" },
