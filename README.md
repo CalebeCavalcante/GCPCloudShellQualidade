@@ -8,5 +8,5 @@
 
 Comando para habilitar os scripts
 ```bash
-    chmode 777 ~/GCPCloudShellQualidade/import_*.sh
+    chmod 777 ~/GCPCloudShellQualidade/import_*.sh
 ```
