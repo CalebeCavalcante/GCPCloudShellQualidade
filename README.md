@@ -1,12 +1,15 @@
 # Projeto GCP Cloud Shell Qualidade
 
-### RoadMap
+### Imports:
 
-- [x] Import Base Turbina Anatel Filtro Generico
-- [x] Import Base Anatel Pesquisa Avançada
-- [ ] Import Base Mis de Migração Faltando Schema
+  - Import Base Turbina Anatel Filtro Generico
+  - Import Base Anatel Pesquisa Avançada
+  - Import Base Mis de Migração
 
-Comando para habilitar os scripts
+Comando para habilitar os scripts.
+  1. Abrir o terminal
+  2. Colar o comando abaixo e apertar enter
+  
 ```bash
     chmod 777 ~/GCPCloudShellQualidade/import_*.sh
 ```
