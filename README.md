@@ -1,4 +1,12 @@
 # Projeto GCP Cloud Shell Qualidade
 
-- Import Base Mis de Migração OK
-- Import Base Turbina Anatel Filtro Generico OK
+### RoadMap
+
+- [x] Import Base Turbina Anatel Filtro Generico
+- [x] Import Base Anatel Pesquisa Avançada
+- [ ] Import Base Mis de Migração Faltando Schema
+
+Comando para habilitar os scripts
+```bash
+    chmode 777 ~/GCPCloudShellQualidade/import_*.sh
+```
