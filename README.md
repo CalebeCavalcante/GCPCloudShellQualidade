@@ -27,4 +27,7 @@ Basta chamar o arquivo, como a seguir:
 
   # Rodando Import Turbina
   ~/GCPCloudShellQualidade/import_turbina.sh
+
+  # Rodando Import Chamados Abertos
+  ~/GCPCloudShellQualidade/import_chamados_abertos.sh
 ```
