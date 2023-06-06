@@ -13,3 +13,18 @@ Comando para habilitar os scripts.
 ```bash
     chmod 777 ~/GCPCloudShellQualidade/import_*.sh
 ```
+
+Após habilitados os scripts, você pode rodar os processos no terminal
+
+Basta chamar o arquivo, como a seguir:
+
+```bash
+  # Rodando Import Migração
+  ~/GCPCloudShellQualidade/import_migracao.sh
+
+  # Rodando Import Anatel Pesquisa Avançada
+  ~/GCPCloudShellQualidade/import_migracao.sh
+
+  # Rodando Import Turbina
+  ~/GCPCloudShellQualidade/import_turbina.sh
+```
