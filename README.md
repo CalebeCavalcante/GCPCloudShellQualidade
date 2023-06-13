@@ -57,3 +57,11 @@ Range: 4822640-4825000
 ```bash
   gsutil cat -r 4822640-4825000 gs://tim-sdbx-qualidade-2a75-temp-data/REPORT_DIARIO/BO_Unificado_Abertos.TXT
 ```
+
+# Carregar Schema de uma tabela existente
+
+Pegando o schema da base BMES. Padrão é projeto:dataset.table_or_view
+
+```bash
+  bq show --schema --format=prettyjson tim-bigdata-prod-e305:sdx_qlde.vw_rel_hist_base_mensal > ~/GCPCloudShellQualidade/schemas/car_bmes_faltante.json
+```
