@@ -1,0 +1,15 @@
+[
+    { "name": "mes_ref", "type": "INTEGER" , "mode": "NULLABLE"},
+    { "name": "NUM_TELEFONE", "type": "NUMERIC", "mode": "NULLABLE"},
+    { "name": "MES_REFERENCIA", "type": "NUMERIC", "mode": "NULLABLE"},
+    { "name": "SKY_CONTRATO", "type": "INTEGER", "mode": "NULLABLE"},
+    { "name": "DSC_OPERADORA_TIM", "type": "STRING", "mode": "NULLABLE"},
+    { "name": "DSC_PLANO_TARIFARIO", "type": "STRING", "mode": "NULLABLE"},
+    { "name": "DSC_NIVEL_PLANO", "type": "STRING", "mode": "NULLABLE"},
+    { "name": "DSC_TIPO_FAMILIA_PLANO", "type": "STRING", "mode": "NULLABLE"},
+    { "name": "DSC_TIPO_PRE_POS", "type": "STRING", "mode": "NULLABLE"},
+    { "name": "SKY_CLIENTE", "type": "INTEGER", "mode": "NULLABLE"},
+    { "name": "NUM_CPF_CNPJ_CLIENTE", "type": "STRING", "mode": "NULLABLE"},
+    { "name": "NOM_CLIENTE", "type": "STRING", "mode": "NULLABLE"},
+    { "name": "COD_CONTRATO_OLTP", "type": "NUMERIC", "mode": "NULLABLE"}
+]
