@@ -1,0 +1,5 @@
+[
+    {"name": "Pasta" , "type":"INTEGER", "mode": "NULLABLE" }, 
+    {"name": "Benner" , "type":"STRING", "mode": "NULLABLE" },
+    {"name": "Juiz" , "type":"STRING", "mode": "NULLABLE" }
+]

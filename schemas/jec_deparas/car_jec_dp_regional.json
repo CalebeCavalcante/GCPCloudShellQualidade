@@ -1,0 +1,5 @@
+[
+    {"name": "UF" , "type":"STRING", "mode": "NULLABLE" }, 
+    {"name": "Regiao" , "type":"STRING", "mode": "NULLABLE" },
+    {"name": "Estado" , "type":"STRING", "mode": "NULLABLE" }
+]

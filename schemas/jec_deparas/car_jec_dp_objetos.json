@@ -1,0 +1,7 @@
+[
+    {"name": "Chave" , "type":"STRING", "mode": "NULLABLE" }, 
+    {"name": "Objeto" , "type":"STRING", "mode": "NULLABLE" }, 
+    {"name": "Sub_Objeto" , "type":"STRING", "mode": "NULLABLE" },
+    {"name": "Objeto_5" , "type":"STRING", "mode": "NULLABLE" },
+    {"name": "Objeto_6" , "type":"STRING", "mode": "NULLABLE" }
+]

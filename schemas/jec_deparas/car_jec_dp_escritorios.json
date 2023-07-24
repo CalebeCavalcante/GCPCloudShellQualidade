@@ -1,0 +1,4 @@
+[
+    {"name": "Escritorio" , "type":"STRING", "mode": "NULLABLE" }, 
+    {"name": "Escritorio_Ajustado" , "type":"STRING", "mode": "NULLABLE" }
+]

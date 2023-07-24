@@ -1,0 +1,4 @@
+[
+    {"name": "Nome_Plano" , "type":"STRING", "mode": "NULLABLE" }, 
+    {"name": "LIVE_TIM" , "type":"STRING", "mode": "NULLABLE" }
+]

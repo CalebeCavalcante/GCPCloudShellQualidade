@@ -1,0 +1,5 @@
+[
+    {"name": "Pasta" , "type":"INTEGER", "mode": "NULLABLE" }, 
+    {"name": "Filial" , "type":"STRING", "mode": "NULLABLE" }, 
+    {"name": "Nome" , "type":"STRING", "mode": "NULLABLE" }
+]

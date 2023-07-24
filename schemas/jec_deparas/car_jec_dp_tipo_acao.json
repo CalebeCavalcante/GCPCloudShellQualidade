@@ -1,0 +1,4 @@
+[
+    {"name": "Tipo" , "type":"STRING", "mode": "NULLABLE" }, 
+    {"name": "Tipo_De_Acao" , "type":"STRING", "mode": "NULLABLE" }
+]

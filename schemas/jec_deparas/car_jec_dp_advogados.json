@@ -1,0 +1,8 @@
+[
+    {"name": "Chave" , "type":"STRING", "mode": "NULLABLE" }, 
+    {"name": "Benner" , "type":"STRING", "mode": "NULLABLE" }, 
+    {"name": "UF" , "type":"STRING", "mode": "NULLABLE" },
+    {"name": "Advogado" , "type":"STRING", "mode": "NULLABLE" },
+    {"name": "OAB" , "type":"STRING", "mode": "NULLABLE" },
+    {"name": "Advogado_Captador" , "type":"STRING", "mode": "NULLABLE" }
+]

@@ -1,0 +1,4 @@
+[
+    {"name": "Condicao" , "type":"STRING", "mode": "NULLABLE" }, 
+    {"name": "Autor_Reu" , "type":"STRING", "mode": "NULLABLE" }
+]

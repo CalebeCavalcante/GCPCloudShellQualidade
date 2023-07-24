@@ -1,0 +1,4 @@
+[
+    {"name": "Texto" , "type":"STRING", "mode": "NULLABLE" }, 
+    {"name": "Orgao" , "type":"STRING", "mode": "NULLABLE" }
+]

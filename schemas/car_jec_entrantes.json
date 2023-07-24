@@ -1,0 +1,228 @@
+[
+    {
+      "mode": "NULLABLE",
+      "name": "Pasta",
+      "type": "INTEGER"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Empresa_Cliente",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Adverso_Principal",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Advogado_Adverso",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Disparo_Obrigacao_De_Fazer",
+      "type": "DATE"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Disparo_Obrigacao_De_Pagar",
+      "type": "DATE"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "CPF",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Data_Citacao",
+      "type": "DATE"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Tipo_Acao",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Tipo_Do_Produto",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Classificacao_Do_Produto",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Nome_Plano",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Natureza",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "orgao",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Comarca",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "UF_Comarca",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Ordinal_Jurisdicao",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Numero",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Objeto",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Subobjeto",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Situacao",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Primeira_Data_Audiencia",
+      "type": "DATE"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Ultima_Data_Audiencia",
+      "type": "DATE"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Data_Contestacao",
+      "type": "DATE"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Data_Cadastro_Da_Pasta",
+      "type": "DATE"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Valor_Da_Causa",
+      "type": "FLOAT"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Valor_Pedido",
+      "type": "FLOAT"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Valor_Risco",
+      "type": "FLOAT"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Risco",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Reclamacao",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Diretoria",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Risco_Valor_Poss__vel",
+      "type": "FLOAT"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Risco_Valor_Provavel",
+      "type": "FLOAT"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Risco_Valor_Remoto",
+      "type": "FLOAT"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Risco_Valor_Atualizado",
+      "type": "FLOAT"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Escritorio",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Responsabilida_Escritorio",
+      "type": "INTEGER"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Data_De_Reativacao_Da_Pasta",
+      "type": "DATE"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Motivo_Da_Reabertura_Da_Pasta",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Parceiros",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Data_encerramento",
+      "type": "DATE"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Cargos",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Escritorio_adverso",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Juiz",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Condicao_cliente_tim",
+      "type": "STRING"
+    }
+  ]
+  
