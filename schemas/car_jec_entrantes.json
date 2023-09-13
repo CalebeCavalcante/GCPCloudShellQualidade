@@ -223,6 +223,30 @@
       "mode": "NULLABLE",
       "name": "Condicao_cliente_tim",
       "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Area_Ofensora",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Telefone",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Data_do_encerramento",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Confidencialidade",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Acesso_Telefone",
+      "type": "STRING"
     }
   ]
-  
