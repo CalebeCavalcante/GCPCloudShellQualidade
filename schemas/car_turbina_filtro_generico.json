@@ -81,5 +81,7 @@
     {"name": "Data_Envio_Pode_Falar_Agora" , "type": "TIMESTAMP", "mode": "NULLABLE" },
     {"name": "Data_Retorno_Falar_Agora" , "type": "TIMESTAMP", "mode": "NULLABLE" },
     {"name": "Retorno_em_Horario_Operacional" , "type": "STRING", "mode": "NULLABLE" },
-    {"name": "Retorno_Falar_Agora" , "type": "STRING", "mode": "NULLABLE" }
+    {"name": "Retorno_Falar_Agora" , "type": "STRING", "mode": "NULLABLE" },
+    {"name": "Cliente_Favoravel" , "type": "STRING", "mode": "NULLABLE" },
+    {"name": "Satisfacao_do_Cliente" , "type": "STRING", "mode": "NULLABLE" }
 ]
